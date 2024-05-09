@@ -1,6 +1,6 @@
 # Final Year Project: Predicting Charpy Impact Energy from Microstructure Data of A508 steel with Machine Learning
 ## Abstract
-# My changes(Rajat) 
+### My changes(Rajat) 
 Limited non-destructive methods exist to accurately assess the material properties of A508 steel, a commonly used material in nuclear reactor pressure vessels. This study aims to develop a machine learning-based model for predicting Charpy impact energy from microstructural data of A508 steel, addressing the need for improved material characterization techniques. Previous research has primarily focused on characterizing or predicting material properties based on process parameters but overlooked the potential of leveraging microstructural data for material property prediction. 
 
 The study compares various feature extraction techniques, such as Histogram of Oriented Gradients (HOG), and transfer learning with VGG16 and EfficientNetB0, to extract relevant features from microstructural images. These features were subsequently combined with machine learning prediction models such as fully connected neural networks (FCNN), random forest (RF) regression, and support vector regression (SVR), to predict Charpy impact energy.
